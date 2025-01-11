@@ -15,17 +15,16 @@
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 💫 About Me
+👨‍💻 About Me
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-```javascript
-const siva = {
-    role: "Frontend Developer",
-    code: ["TypeScript", "JavaScript"],
-    expertise: ["React", "Next.js", "Angular"],
-    architecture: ["Responsive Design", "SPAs", "PWAs"],
-    currentFocus: "Building scalable and performant web applications"
-};
-```
+🔭 I'm a Frontend Developer with 2.9+ years of experience
+🎯 Specializing in React, Next.js, and Angular
+💡 Love creating responsive, user-centric web applications
+🌱 Currently exploring Advanced React Patterns & Web Performance
+⚡ Fun fact: I turn ☕ into <code/>
 
 ## 🛠️ Tech Stack
 
@@ -54,12 +53,25 @@ const siva = {
 - 🎯 Focus on innovative solutions that enhance user experience
 - 📈 Committed to driving business growth through technical excellence
 
-## 📫 Let's Connect!
-
+🤝 Let's Connect and Build Something Amazing!
 <div align="center">
-  <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/">
-    <img src="https://img.shields.io/badge/-Let's_Talk_Tech!-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:skrishnan771@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Chat!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sivaramakrishnan-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Check_My_Work!-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</div>
+<div align="center">
+  <h3>📫 Open for:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Freelance_Projects-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Full_Time_Opportunities-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Tech_Discussions-orange?style=for-the-badge"/>
+  </p>
 </div>
 
 ---
