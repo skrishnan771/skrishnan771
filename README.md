@@ -71,16 +71,15 @@ const sivaramakrishnan = {
   </a>
 </div>
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <h3>💼 Open to:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Frontend_Development-Projects-success?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Exciting-Opportunities-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Tech-Collaborations-orange?style=for-the-badge"/>
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaram-portfolio&theme=tokyonight" alt="GitHub Streak Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaram-portfolio&show_icons=true&theme=tokyonight" alt="GitHub Analytics"/>
 </div>
 
----
+--- 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
