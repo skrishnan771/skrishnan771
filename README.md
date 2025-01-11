@@ -15,16 +15,31 @@
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-👨‍💻 About Me
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+## 👨‍💻 About Me
 
-🔭 I'm a Frontend Developer with 2.9+ years of experience
-🎯 Specializing in React, Next.js, and Angular
-💡 Love creating responsive, user-centric web applications
-🌱 Currently exploring Advanced React Patterns & Web Performance
-⚡ Fun fact: I turn ☕ into <code/>
+<div align="center">
+
+```typescript
+const sivaramakrishnan = {
+    role: "Frontend Developer",
+    experience: "2.9+ years",
+    technologies: {
+        languages: ["TypeScript", "JavaScript"],
+        frameworks: ["React", "Next.js", "Angular"],
+        ui: ["Material-UI", "Tailwind CSS"],
+        stateManagement: ["Redux", "Context API"],
+        testing: ["Jest", "React Testing Library"]
+    },
+    focus: {
+        current: "Building scalable web applications",
+        interests: ["Web Performance", "UI/UX", "Clean Code"],
+        architecture: ["Responsive Design", "Component-Driven Dev"]
+    },
+    funFact: "I believe every pixel matters! 🎨"
+};
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -47,30 +62,34 @@
 
 ## 🌟 Highlights
 
-- 💡 Experienced in creating responsive and visually appealing user interfaces
-- 🤝 Strong collaboration skills with cross-functional teams
-- 📚 Up-to-date with emerging front-end technologies
-- 🎯 Focus on innovative solutions that enhance user experience
-- 📈 Committed to driving business growth through technical excellence
+- 💡 Creating responsive and visually appealing user interfaces
+- 🤝 Strong collaboration with cross-functional teams
+- 📚 Continuous learner of emerging front-end technologies
+- 🎯 Building innovative, user-centric solutions
+- 📈 Driving business growth through technical excellence
 
-🤝 Let's Connect and Build Something Amazing!
+## 🤝 Let's Connect!
+
 <div align="center">
   <a href="mailto:skrishnan771@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Chat!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email_Me-Let's_Chat!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://sivaramakrishnan-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Check_My_Work!-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work!-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
+
 <div align="center">
-  <h3>📫 Open for:</h3>
+  <h3>💼 Open to:</h3>
   <p>
-    <img src="https://img.shields.io/badge/Freelance_Projects-success?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Full_Time_Opportunities-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Tech_Discussions-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Frontend_Development-Projects-success?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Exciting-Opportunities-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Tech-Collaborations-orange?style=for-the-badge"/>
   </p>
 </div>
 
