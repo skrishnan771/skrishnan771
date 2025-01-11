@@ -16,28 +16,15 @@
 </p>
 
 👨‍💻 About Me
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Focus-Frontend_Development-blue?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Specialty-UI/UX_Design-purple?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Passion-Clean_Code-green?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-<br/>
-
-🎯 My Mission: Building scalable, performant web applications that users love
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Code_Quality-★★★★★-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-★★★★★-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/User_Experience-★★★★★-success?style=for-the-badge"/>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
+
+🔭 I'm a Frontend Developer with 2.9+ years of experience
+🎯 Specializing in React, Next.js, and Angular
+💡 Love creating responsive, user-centric web applications
+🌱 Currently exploring Advanced React Patterns & Web Performance
+⚡ Fun fact: I turn ☕ into <code/>
 
 ## 🛠️ Tech Stack
 
