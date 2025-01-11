@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 ```javascript
-const siva = {
+const sivaramakrishnan = {
     role: "Frontend Developer",
     code: ["TypeScript", "JavaScript"],
     expertise: ["React", "Next.js", "Angular"],
