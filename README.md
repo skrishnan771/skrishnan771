@@ -15,10 +15,7 @@
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-👨‍💻 About Me
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+👨‍💻 About Me 
 
 🔭 I'm a Frontend Developer with 2.9+ years of experience
 🎯 Specializing in React, Next.js, and Angular
