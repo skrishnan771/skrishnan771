@@ -15,10 +15,6 @@
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaram-portfolio&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
 ## 💫 About Me
 
 ```javascript
@@ -31,16 +27,13 @@ const siva = {
 };
 ```
 
-## 🛠️ Tech Arsenal
-
-<details>
-<summary>📊 Skills Breakdown</summary>
+## 🛠️ Tech Stack
 
 ### 🔤 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+### 🎨 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -52,33 +45,14 @@ const siva = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</details>
 
-## 📈 GitHub Analytics
+## 🌟 Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaram-portfolio&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 Building scalable frontend architectures
-- 🌱 Exploring advanced React patterns
-- 👯 Open to collaboration on innovative web projects
-- ⚡ Passionate about clean code and best practices
-
-## 💼 Professional Journey
-
-```mermaid
-graph LR
-    A[Frontend Developer] --> B[React Expert]
-    B --> C[Angular Proficient]
-    C --> D[Next.js Specialist]
-    style A fill:#2196F3,stroke:#fff,stroke-width:2px
-    style B fill:#2196F3,stroke:#fff,stroke-width:2px
-    style C fill:#2196F3,stroke:#fff,stroke-width:2px
-    style D fill:#2196F3,stroke:#fff,stroke-width:2px
-```
+- 💡 Experienced in creating responsive and visually appealing user interfaces
+- 🤝 Strong collaboration skills with cross-functional teams
+- 📚 Up-to-date with emerging front-end technologies
+- 🎯 Focus on innovative solutions that enhance user experience
+- 📈 Committed to driving business growth through technical excellence
 
 ## 📫 Let's Connect!
 
