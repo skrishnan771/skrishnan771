@@ -15,30 +15,28 @@
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Frontend_Development-blue?style=for-the-badge"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Specialty-UI/UX_Design-purple?style=for-the-badge"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Passion-Clean_Code-green?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+<br/>
+
+🎯 My Mission: Building scalable, performant web applications that users love
 
 <div align="center">
-
-```typescript
-const sivaramakrishnan = {
-    role: "Frontend Developer",
-    experience: "2.9+ years",
-    technologies: {
-        languages: ["TypeScript", "JavaScript"],
-        frameworks: ["React", "Next.js", "Angular"],
-        ui: ["Material-UI", "Tailwind CSS"],
-        stateManagement: ["Redux", "Context API"],
-        testing: ["Jest", "React Testing Library"]
-    },
-    focus: {
-        current: "Building scalable web applications",
-        interests: ["Web Performance", "UI/UX", "Clean Code"],
-        architecture: ["Responsive Design", "Component-Driven Dev"]
-    },
-    funFact: "I believe every pixel matters! 🎨"
-};
-```
-
+  <img src="https://img.shields.io/badge/Code_Quality-★★★★★-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-★★★★★-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/User_Experience-★★★★★-success?style=for-the-badge"/>
 </div>
 
 ## 🛠️ Tech Stack
