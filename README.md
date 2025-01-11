@@ -1,43 +1,94 @@
-# Hi there, I'm Sivaramakrishnan 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Sivaramakrishnan+S" alt="Typing SVG" />
+</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sivaramakrishnan-portfolio.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skrishnan771@gmail.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivaram-portfolio&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-## 👨‍💻 About Me
+<h3 align="center">Frontend Developer crafting pixel-perfect, responsive web experiences 🚀</h3>
 
-Front-End Developer with 2.9+ years of experience, passionate about crafting responsive and innovative web experiences. I specialize in building user-centric applications using modern web technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2.9%2B%20Years-blue?style=for-the-badge" alt="Years of Experience"/>
+  <a href="https://sivaramakrishnan-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaram-portfolio&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
 
-### Languages
+## 💫 About Me
+
+```javascript
+const siva = {
+    role: "Frontend Developer",
+    code: ["TypeScript", "JavaScript"],
+    expertise: ["React", "Next.js", "Angular"],
+    architecture: ["Responsive Design", "SPAs", "PWAs"],
+    currentFocus: "Building scalable and performant web applications"
+};
+```
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary>📊 Skills Breakdown</summary>
+
+### 🔤 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
 
-## 🌟 Highlights
+## 📈 GitHub Analytics
 
-- Experienced in creating responsive and visually appealing user interfaces
-- Strong collaboration skills with cross-functional teams
-- Up-to-date with emerging front-end technologies
-- Focus on innovative solutions that enhance user experience
-- Committed to driving business growth through technical excellence
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaram-portfolio&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Building scalable frontend architectures
+- 🌱 Exploring advanced React patterns
+- 👯 Open to collaboration on innovative web projects
+- ⚡ Passionate about clean code and best practices
+
+## 💼 Professional Journey
+
+```mermaid
+graph LR
+    A[Frontend Developer] --> B[React Expert]
+    B --> C[Angular Proficient]
+    C --> D[Next.js Specialist]
+    style A fill:#2196F3,stroke:#fff,stroke-width:2px
+    style B fill:#2196F3,stroke:#fff,stroke-width:2px
+    style C fill:#2196F3,stroke:#fff,stroke-width:2px
+    style D fill:#2196F3,stroke:#fff,stroke-width:2px
+```
 
 ## 📫 Let's Connect!
 
-Feel free to reach out for collaborations or just a friendly chat:
-- 💼 [LinkedIn](https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/)
-- 📧 [skrishnan771@gmail.com](mailto:skrishnan771@gmail.com)
-- 🌐 [Portfolio](https://sivaramakrishnan-portfolio.web.app/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/">
+    <img src="https://img.shields.io/badge/-Let's_Talk_Tech!-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
