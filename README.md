@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge" alt="Years of Experience"/>
   <a href="https://sivaramakrishnan-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sivaramakrishnan-s-b63144161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/skrishnan771/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:skrishnan771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
